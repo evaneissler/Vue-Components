@@ -9,6 +9,7 @@
   </script>
   
   <style scoped>
+  
   button {
     background-color: #4f46e5;
     color: #fff;
